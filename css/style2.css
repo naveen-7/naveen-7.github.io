@@ -43,12 +43,12 @@ p {font-weight: 200; font-size: 20px;}
   position: relative;
   top: 10px;
   left: 11px;
-  letter-spacing: -0.7px; font-weight: 0.2; font-size:50px; color: #0068FF
+  letter-spacing: -0.7px; font-weight: 0.2; font-size:48px; color: #0068FF
 }
 
 
 h1 {letter-spacing: -6px; font-weight: 1; font-size:150px; color: #0068FF}
-h2 {letter-spacing: -0.7px; font-weight: 0.2; font-size:50px; color: #0068FF}
+h2 {letter-spacing: -0.7px; font-weight: 0.2; font-size:48px; color: #0068FF}
 
 hr {border-bottom: 3px solid #0068FF;}
 
