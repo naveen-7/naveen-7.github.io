@@ -24,12 +24,12 @@ p {font-weight: 200; font-size: 20px;}
 .container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: auto;}
 article {padding: 60px;}
 
-h1 {letter-spacing: -6px; font-weight: 1; font-size:135px; color: #0068FF}
+h1 {letter-spacing: -6px; font-weight: 1; font-size:185px; color: #0068FF}
 h2 {letter-spacing: -2.5px; font-weight: 0.2; font-size:50px; color: #0068FF}
 
 hr {border-bottom: 3px solid #0068FF;}
 
-.meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
+.meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 30px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
