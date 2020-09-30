@@ -33,10 +33,14 @@ hr {border-bottom: 3px solid #0068FF;}
 .meta a:hover {color: #333;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
-.inline-list li {display: inline-block;}
+.inline-list li {display: inline;}
+
+.inline2-list {list-style: none; margin: 0; padding: 0;}
+.inline2-list li {display: inline;}
 
 
 footer .inline-list li {margin-bottom: 300px;}
+footer .inline2-list li {margin-bottom: 350px;}
 footer a {border: none; color: #0068FF;}
 footer {margin: 0 auto; position: absolute; bottom: 20%; right: -255px; padding: 40px 0 0 0; width: 600px; -webkit-transform: rotate(0deg);}
 
