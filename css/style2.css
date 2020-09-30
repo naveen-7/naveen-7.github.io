@@ -49,6 +49,16 @@ footer {margin: 0 auto; position: absolute; top: 10%; right: 5%; padding: 40px 0
 
 
 
+.container p img, .img-responsive {
+  display: block;
+  height: auto;
+  margin: 2rem auto;
+  max-width: 100%;
+}
+
+.avatar {
+  padding-top: 5%;
+}
 
 
 
