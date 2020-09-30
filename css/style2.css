@@ -25,8 +25,30 @@ p {font-weight: 200; font-size: 20px;}
 
 /*article {padding: 60px;}*/
 
+.header img {
+  float: left;
+  width: 150px;
+  height: 150px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+  letter-spacing: -6px; font-weight: 1; font-size:150px; color: #0068FF
+}
+
+.header h2 {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  letter-spacing: -0.7px; font-weight: 0.2; font-size:50px; color: #0068FF
+}
+
+
 h1 {letter-spacing: -6px; font-weight: 1; font-size:150px; color: #0068FF}
-h2 {letter-spacing: -1px; font-weight: 0.2; font-size:50px; color: #0068FF}
+h2 {letter-spacing: -0.7px; font-weight: 0.2; font-size:50px; color: #0068FF}
 
 hr {border-bottom: 3px solid #0068FF;}
 
