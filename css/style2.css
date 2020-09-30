@@ -63,6 +63,7 @@ hr {border-bottom: 3px solid #0068FF;}
 .inline2-list {list-style: none; margin: 0; padding: 0;}
 .inline2-list li {display: inline-block;}
 
+.horizontalgap {padding: 0px 0px 0px 20px;}
 
 footer .inline-list li {margin-bottom: 100px;}
 footer .inline2-list li {margin-bottom: 50px;}
