@@ -35,16 +35,12 @@ article {padding: 20px;}
 }
 
 .header h1 {
-  position: relative;
-  top: 18px;
-  left: 10px;
+  position: relative; top: 18px; left: 10px;
   letter-spacing: -6px; font-weight: 1; font-size:150px; color: #0068FF
 }
 
 .header h2 {
-  position: relative;
-  top: 10px;
-  left: 11px;
+  position: relative; top: 10px; left: 11px;
   letter-spacing: -0.7px; font-weight: 0.2; font-size:51.5px; color: #0068FF
 }
 
@@ -70,8 +66,6 @@ footer .inline2-list li {margin-bottom: 50px;}
 
 footer a {border: none; color: #0068FF;}
 footer {margin: 0 auto; position: absolute; top: 10%; right: 2%; padding: 40px 0 0 0; width: 600px; -webkit-transform: rotate(-90deg);}
-
-
 
 
 .container2 p img, .img-responsive {
